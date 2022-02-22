@@ -1,65 +1,17 @@
-body {
-    background-color: lightgray;
-    font-family: sans-serif;
+p {
+    background-color: orange;
+    color: brown;
 }
 
-.main-heading {
-    color: blue;
-    font-size: 48px;
-}
-
-.text {
-    font-size: 24px;
-    /* background-color: yellow; */
-}
-
-.text-danger {
-    color: red;
-    background-color: yellow;
-}
-
-.btn {
-    background-color: black;
-    color: white;
-}
-
-.btn-warning {
-    background-color: yellow;
+p {
     color: black;
 }
 
-.btn-danger {
-    background-color: red;
-    color: white;
-}
-
-.navigation {
-    color: black;
-    background-color: pink;
-    text-decoration: none;
-    display: block;
-}
-
-.important-text {
-    font-weight: bolder;
-    color: red;
-    background-color: black;
-    text-decoration: underline;
-}
-
-/* .text-block {
-  background-color: purple;
-} */
-
-.sub-heading {
-    font-size: 16px;
+p {
     color: red;
 }
 
-.bold-text {
-    font-weight: bolder;
-}
-
-.emphasis {
-  font-style: italic;
+p {
+    background-color: green;
+    background-color: blue;
 }
