@@ -32,3 +32,34 @@ body {
     background-color: red;
     color: white;
 }
+
+.navigation {
+    color: black;
+    background-color: pink;
+    text-decoration: none;
+    display: block;
+}
+
+.important-text {
+    font-weight: bolder;
+    color: red;
+    background-color: black;
+    text-decoration: underline;
+}
+
+/* .text-block {
+  background-color: purple;
+} */
+
+.sub-heading {
+    font-size: 16px;
+    color: red;
+}
+
+.bold-text {
+    font-weight: bolder;
+}
+
+.emphasis {
+  font-style: italic;
+}
