@@ -1,0 +1,22 @@
+nav {
+    text-align: center;
+}
+
+/* .box {
+    width: 1200px;
+    height: 150px;
+    background-color: #e28392;
+} */
+
+/* .box {
+    background-color: #e28392;
+    width: 70%;
+    height: 50%;
+} */
+
+.box {
+    font-size: 10px;
+    background-color: #22eee4;
+    width: 40rem;
+    height: 50rem;
+}
