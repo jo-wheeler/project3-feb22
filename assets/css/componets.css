@@ -37,6 +37,7 @@ nav {
     padding: 20px;
     border: 25px solid #0de94f;
     /* box-sizing: border-box; */
+    display: inline-block; 
 }
 
 .box-2 {
@@ -46,6 +47,7 @@ nav {
     /* padding-top: 30px;
     padding-left: 30px; */
     padding: 20px;
+    display: inline-block;
 }
 
 
@@ -58,4 +60,18 @@ nav {
     border-bottom-left-radius: 50px;
     border-top-right-radius: 100px;
     border-top-left-radius: 150px;
+}
+
+
+nav a {
+    background-color: #eeee0b;
+    display: inline-block;
+    width: 100px;
+    padding: 10px;
+    margin-top: 10px;
+    /* width: 2000px;
+    height: 200px;
+    margin-top: 1000px;
+    padding-bottom: 100px; */
+    /* margin-left: 100px; */
 }
